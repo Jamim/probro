@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ПроБро</string>
+
+    <string name="rate">Курс в обменнике</string>
+    <string name="count">количество</string>
+    <string name="real_rate_header">Реальный курс:</string>
+    <string name="total_header">Итого:</string>
+    <string name="to_bank">Отойдёт банку:</string>
+    <string name="to_state">В бюджет:</string>
+
+</resources>
